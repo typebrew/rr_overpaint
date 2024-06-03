@@ -8,6 +8,6 @@ RR Overpaint is a free font created for testing corner components in the Glyphs 
 ## Download
 You can download the fonts directly by clicking the buttons below:
 
-[![Download OTF](https://img.shields.io/badge/Download-OTF-blue)](https://github.com/typebrew/rr_overpaint/raw/main/fonts/RR_Overpaint-Regular.otf)
-[![Download TTF](https://img.shields.io/badge/Download-TTF-blue)](https://github.com/typebrew/rr_overpaint/raw/main/fonts/RR_Overpaint-Regular.ttf)
+[![Download OTF](https://img.shields.io/badge/Download-OTF-blue)](https://github.com/typebrew/rr_overpaint/raw/main/fonts/otf/RR_Overpaint-Regular.otf)
+[![Download TTF](https://img.shields.io/badge/Download-TTF-blue)](https://github.com/typebrew/rr_overpaint/raw/main/fonts/ttf/RR_Overpaint-Regular.ttf)
 [![Download glyphs](https://img.shields.io/badge/Download-glyphs-green)](https://github.com/typebrew/rr_overpaint/raw/main/src/glyphs/overpaint.glyphs)
